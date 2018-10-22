@@ -229,6 +229,7 @@ Corrige la estructura de la siguiente página web.
 ##Ejercicio 13:
 
 ¿Cuál es el error?
+La url de la imagen debe ir en el atributo src
 
 ~~~html
 <!DOCTYPE html>
