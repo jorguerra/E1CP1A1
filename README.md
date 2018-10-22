@@ -95,6 +95,7 @@ Si deseo mostrar en la pestaña del navegador el nombre de la página. ¿Qué le
 
 ##Ejercicio 6:
 ¿Por qué no se ven los saltos de línea?
+Porque las etiquetas br no existen
 Se pide implementar los cambios necesarios para que visualmente se pueden ver los párrafos.
 
 ![imagen sin parrafos](https://github.com/DesafioLatam/E1CP1A1/blob/master/images/14000_p.png?raw=true)
