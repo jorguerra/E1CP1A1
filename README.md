@@ -269,7 +269,7 @@ La url de la imagen debe ir en el atributo src
 </head>
 <body>
 
-	<a href="www.desafiolatam.com">link a Desafío Latam!</a>
+	<a href="http://www.desafiolatam.com">link a Desafío Latam!</a>
 	<img alt="../logo.png">
 
 </body>
